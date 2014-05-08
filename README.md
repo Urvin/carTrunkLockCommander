@@ -19,7 +19,7 @@ The time is enough to open a trunk and to protect system to work on high-ampere 
 * 1 x 0805 10nF capacitor.
 * Can be supplied with connectors 3x3.96 and 2x3.96.
 
-Instead of (680kOhms + 47kOhms) + 1uF elements you can use any other, that correspond the equation 0.8 = (R1 + R2) * C.
+Instead of (680kOhms + 47kOhms) + 1uF elements (R3, C3 on schematics) you can use any other, that correspond the equation 0.8 = (R1 + R2) * C.
 For example, use 150kOhms + 4.7kOhms + 4.7uF.
 
 ##Directory tree
