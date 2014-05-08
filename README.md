@@ -4,8 +4,8 @@ Car trunk lock commander
 > *Firstly designed for my Lifan Smily (Lifan 320) car*
 
 This is a motor- and wire- protection device for car trunk lock actuator/solenoid.
-When you push the button, solenoid works for 0.8 second and then turns off, independently if you still hold the button or note.
-This time is enough to open a trunk and top protect system to work on high-ampere current.
+When you push the button on the trunk door, solenoid works for 0.8 second and then turns off, independently if you still hold the button or not.
+The time is enough to open a trunk and to protect system to work on high-ampere current.
 
 ##Component list
 * [SA555 chip](http://ww1.microchip.com/downloads/en/devicedoc/41211d_.pdf) (same as popular NE555 with extended temperature range);
@@ -22,7 +22,7 @@ This time is enough to open a trunk and top protect system to work on high-amper
 ##Directory tree
 * circuit — device schematic diagram designed in Splan 7;
 * layout — PCB layout designed in Sprint Layout 6;
-* model - device simulation designed in Proteus 7.
+* model — device simulation designed in Proteus 7.
 
 ##Photos, etc
 You can read about this device in my car blog a bit later.
