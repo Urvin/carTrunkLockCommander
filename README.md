@@ -17,7 +17,7 @@ The time is enough to open a trunk and to protect system to work on high-ampere 
 * 1 x 0805 47kOhms resistor;
 * 2 x 0805 1uF capacitors;
 * 1 x 0805 10nF capacitor.
-* Can supplied with connectors 3x3.96 and 2x3.96.
+* Can be supplied with connectors 3x3.96 and 2x3.96.
 
 ##Directory tree
 * circuit — device schematic diagram designed in Splan 7;
